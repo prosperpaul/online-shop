@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function ProductCard({product}) {
   return( <Link to={`/product/${product.id}`}>
   <div className='shadow-lg rounded-md cursor-pointer'>
-    <img src={product.image} className='p-4' />
+    <img src={product.image} className='p-4 h-35' />
     <div className='bg-gray-50 p-4'>
       <h2 className='text-lg font-semibold my-4'>{product.title.substring(0,15)+ "..."}</h2>
       <p className='text-sm text-zinc-500 border-b-2 pb-2'>{product.description.substring(0,25)+ "..."}</p>
