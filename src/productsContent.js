@@ -8,7 +8,7 @@ const products = [
     title: "HAVIT HV-G92 Gamepad",
     description: "Ergonomic gamepad with dual vibration, turbo function, and textured grips for long gaming sessions.",
     price: 120,
-    image: "/src/assets/gamepad.png",
+    image: "/src/assets/image 63.png",
     viewDetails: "/products/1",
   },
   {
@@ -84,7 +84,7 @@ const products = [
     title: "Acer Nitro 5",
     description: "15.6'' FHD display, Intel i5, GTX 1650, 8GB RAM, and 256GB SSD – perfect for mid-range gaming.",
     price: 899,
-    image: "/src/assets/image 23.png",
+    image: "/src/assets/lap.png",
     viewDetails: "/products/9",
   },
   {
@@ -111,7 +111,7 @@ const products = [
      title: "MSI GF63 Thin",
     description: "Affordable gaming laptop with Intel i5, GTX 1650 Max-Q, 8GB RAM and slim profile for mobility.",
     price: 799,
-    image: "/src/assets/system.png",
+    image: "/src/assets/lap1.png",
     viewDetails: "/products/12",
   },
 
