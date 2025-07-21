@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/logo.png'
+import logo from '/public/assets/logo.png'
 import { Facebook } from 'lucide-react'
 import { Youtube } from 'lucide-react'
 import { TwitchIcon } from 'lucide-react'
