@@ -8,7 +8,7 @@ const products = [
     title: "HAVIT HV-G92 Gamepad",
     description: "Ergonomic gamepad with dual vibration, turbo function, and textured grips for long gaming sessions.",
     price: 120,
-    image: "/public/assets/image 63.png",
+    image: "/assets/image 63.png",
     viewDetails: "/products/1",
   },
   {
@@ -17,7 +17,7 @@ const products = [
     title: "Razer Kishi V2 Controller",
     description: "Universal mobile gaming controller with console-quality precision, latency-free connection, and customizable buttons.",
     price: 89,
-    image: "/public/assets/Game Controller.png",
+    image: "/assets/Game Controller.png",
     viewDetails: "/products/2",
   },
   {
@@ -26,7 +26,7 @@ const products = [
     title: "PowerA Charging Dock",
     description: "Dual controller charging station with LED indicators and USB-C support for fast charging.",
     price: 35,
-    image: "/public/assets/Charging Dock.png",
+    image: "/assets/Charging Dock.png",
     viewDetails: "/products/3",
   },
   {
@@ -35,7 +35,7 @@ const products = [
     title: "Logitech Driving Force Shifter",
     description: "Six-speed manual gear shifter designed for racing games, compatible with Logitech G29 and G920.",
     price: 59,
-    image: "/public/assets/wheel.png",
+    image: "/assets/wheel.png",
     viewDetails: "/products/4",
   },
 
@@ -46,7 +46,7 @@ const products = [
    title: "Redragon K552 Mechanical Keyboard",
     description: "Durable keyboard with red switches, anti-ghosting, and splash-proof design for everyday use.",
     price: 45,
-    image: "/public/assets/keyboard.png",
+    image: "/assets/keyboard.png",
     viewDetails: "/products/5",
   },
   {
@@ -55,7 +55,7 @@ const products = [
    title: "Logitech MX Master 3 Mouse",
     description: "Advanced ergonomic wireless mouse with precision scroll and gesture control for productivity.",
     price: 99,
-    image: "/public/assets/mouse.png",
+    image: "/assets/mouse.png",
     viewDetails: "/products/6",
   },
   {
@@ -64,7 +64,7 @@ const products = [
    title: "Anker 10-Port USB Hub",
     description: "High-speed USB 3.0 hub with power adapter, ideal for connecting multiple devices.",
     price: 49,
-    image: "/public/assets/usb port.png",
+    image: "/assets/usb port.png",
     viewDetails: "/products/7",
   },
   {
@@ -73,7 +73,7 @@ const products = [
     title: "TP-Link AC1300 WiFi Adapter",
     description: "Dual band wireless USB adapter with high gain antenna for stable internet connection.",
     price: 30,
-    image: "/public/assets/wifi adapter.png",
+    image: "/assets/wifi adapter.png",
     viewDetails: "/products/8",
   },
 
@@ -84,7 +84,7 @@ const products = [
     title: "Acer Nitro 5",
     description: "15.6'' FHD display, Intel i5, GTX 1650, 8GB RAM, and 256GB SSD – perfect for mid-range gaming.",
     price: 899,
-    image: "/public/assets/lap.png",
+    image: "/assets/lap.png",
     viewDetails: "/products/9",
   },
   {
@@ -93,7 +93,7 @@ const products = [
      title: "ASUS ROG Zephyrus G14",
     description: "Powerful Ryzen 9 processor, RTX 3060 GPU, 16GB RAM, and 1TB SSD with sleek magnesium alloy design.",
     price: 1499,
-    image: "/public/assets/laptop.png",
+    image: "/assets/laptop.png",
     viewDetails: "/products/10",
   },
   {
@@ -102,7 +102,7 @@ const products = [
      title: "Dell G15 Gaming Laptop",
     description: "11th Gen Intel Core i7, RTX 3050 Ti, 16GB RAM, 512GB SSD – a reliable gaming beast.",
     price: 1299,
-    image: "/public/assets/dell.png",
+    image: "/assets/dell.png",
     viewDetails: "/products/11",
   },
   {
@@ -111,7 +111,7 @@ const products = [
      title: "MSI GF63 Thin",
     description: "Affordable gaming laptop with Intel i5, GTX 1650 Max-Q, 8GB RAM and slim profile for mobility.",
     price: 799,
-    image: "/public/assets/lap1.png",
+    image: "/assets/lap1.png",
     viewDetails: "/products/12",
   },
 
@@ -122,7 +122,7 @@ const products = [
       title: "ASUS TUF Gaming VG249Q",
     description: "23.8'' IPS FHD monitor with 165Hz refresh rate and Adaptive-Sync for smooth visuals.",
     price: 250,
-    image: "/public/assets/monitor.png",
+    image: "/assets/monitor.png",
     viewDetails: "/products/13",
   },
   {
@@ -131,7 +131,7 @@ const products = [
      title: "LG UltraGear 27GL83A-B",
     description: "27'' QHD monitor with 144Hz refresh rate, 1ms response time and HDR10 support.",
     price: 399,
-    image: "/public/assets/lg.png",
+    image: "/assets/lg.png",
     viewDetails: "/products/14",
   },
   {
@@ -140,7 +140,7 @@ const products = [
       title: "AOC C24G1A Curved Monitor",
     description: "24'' Full HD VA curved gaming monitor with 165Hz refresh rate and FreeSync Premium.",
     price: 220,
-    image: "/public/assets/monit.png",
+    image: "/assets/monit.png",
     viewDetails: "/products/15",
   },
   {
@@ -149,7 +149,7 @@ const products = [
     title: "BenQ EX2510S Gaming Monitor",
     description: "25'' IPS display with 165Hz, HDRi technology and built-in speakers for immersive gameplay.",
     price: 275,
-    image: "/public/assets/moni.png",
+    image: "/assets/moni.png",
     viewDetails: "/products/16",
   },
 ];

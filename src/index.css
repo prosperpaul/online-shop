@@ -11,7 +11,7 @@
 }  
 
 .bg{
-  background: url('./assets/bg.png');
+  background: url('/public/assets/bg.png');
   background-size: cover;
   height: 70vh;
 
