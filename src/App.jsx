@@ -5,6 +5,8 @@ import CartPage from './pages/CartPage';
 import Navbar from './components/Navbar';
 import { store } from './App/Store'
 import { Provider } from 'react-redux';
+import About from './pages/About';
+import Login from './pages/Login';
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
     <Route path="/" element={<Home/>}/>
      <Route path="/product/:id" element={<ProductDetails/>}/>
       <Route path="/cart" element={<CartPage/>}/>
+       <Route path="/about" element={<About/>}/>
+        <Route path="/login" element={<Login/>}/>
   </Routes>
   </BrowerRouter>
     </Provider>

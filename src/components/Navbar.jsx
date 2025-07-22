@@ -31,18 +31,18 @@ function Navbar() {
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to="/">About</Link>
+                <Link to="/about">About</Link>
               </li>
               <li>
-                <Link to="/">FAQs</Link>
+                <Link to="/login">Login</Link>
               </li>
               <li>
-                <Link to="/">Contact</Link>
+                <Link to="/contact">Contact</Link>
               </li>
             </div>
              <div className={`${isOpen ? 'flex flex-col absolute right-0 md:right-0 top-12 z-10 bg-zinc-50 p-4 gap-4' : "hidden"}`}>
               <li>
-                  <Link to="/">sign</Link>
+                  <Link to="/login">sign in</Link>
               </li>
                <li>
                   <Link to="/">My Account</Link>

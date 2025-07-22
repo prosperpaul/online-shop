@@ -25,7 +25,7 @@ function ProductCard({product}) {
         <img
           src={product.image}
           alt={product.title}
-          className="w-full h-40 sm:h-48 md:h-64 object-cover rounded-t-md"
+          className="w-full h-40 sm:h-48 md:h-64 object-contain rounded-t-md"
         />
         <div className="bg-gray-50 p-3 sm:p-4">
           <h2 className="text-base md:text-lg font-semibold my-2 truncate">

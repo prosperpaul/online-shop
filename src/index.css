@@ -11,9 +11,17 @@
 }  
 
 .bg{
-  background: url('/public/assets/bg.png');
-  background-size: cover;
+  background: url('/assets/bg.jpg');
+  
   height: 70vh;
-
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0, 1rem;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
 
 }
