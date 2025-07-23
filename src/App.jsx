@@ -7,6 +7,7 @@ import { store } from './App/Store'
 import { Provider } from 'react-redux';
 import About from './pages/About';
 import Login from './pages/Login';
+import Contact from './pages/Contact';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <Route path="/cart" element={<CartPage/>}/>
        <Route path="/about" element={<About/>}/>
         <Route path="/login" element={<Login/>}/>
+         <Route path="/contact" element={<Contact/>}/>
   </Routes>
   </BrowerRouter>
     </Provider>

@@ -20,8 +20,8 @@ function Login() {
         <br/>
         <input type='text' placeholder="Password" className='border-b-2 w-[20rem] mb-6 md:w-[30rem] sm:w-[32rem] lg:w-[20rem]'/>
         <div>
-        <button className='px-4 bg-red-600 py-2 text-white rounded cursor-pointer'>Log in </button>
-        <Link to='/sign in' className='text-red-600 ml-24'>Forget Password?</Link>
+        <button className='px-4 bg-gray-600 py-2 text-white rounded cursor-pointer'>Log in </button>
+        <Link to='/sign in' className='text-gray-600 ml-24'>Forget Password?</Link>
         </div>
       </div>
        </div>

@@ -52,7 +52,7 @@ function Footer() {
             <Link to='/'>About</Link>
           </li>
            <li>
-            <Link to='/'>FAQs</Link>
+            <Link to='/'>Login</Link>
           </li>
            <li>
             <Link to='/'>Contact</Link>

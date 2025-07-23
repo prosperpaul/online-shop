@@ -67,7 +67,7 @@ function CartPage() {
 
               </div>
 
-               <div className='text-right'>
+               <div  className='text-right'>
                 <p className='font-bold'>
                   ${(item.price + item.quantity).toFixed(2)}
 

@@ -31,7 +31,7 @@ function ProductCard({product}) {
           <h2 className="text-base md:text-lg font-semibold my-2 truncate">
             {product.title.length > 15 ? product.title.substring(0, 15) + "..." : product.title}
           </h2>
-          <p className="text-sm text-zinc-500 border-b-2 pb-2 truncate">
+          <p className="text-sm text-zinc-500 border-t pb-2 truncate">
             {product.description.length > 25 ? product.description.substring(0, 25) + "..." : product.description}
           </p>
           <div className="flex justify-between items-center mt-4">
