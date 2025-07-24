@@ -60,7 +60,7 @@ function Home() {
     <div>
       <div className='bg '>
         <div className=' text-black max-w-2xl '>   
-           <h1 className='text-2xl sm:text-3xl md:text-4xl font-bold mb-4'>Upgrade your setup with top-quality gear!</h1>
+           <h1 className='text-2xl sm:text-3xl md:text-6xl font-bold mb-4 uppercase'>Upgrade your setup with top-quality gear!</h1>
 <p className='text-sm sm:text-base md:text-lg'>From gaming headsets and controllers to keyboards, mice, and monitors  everything you need for power, precision, and performance.</p></div>
     </div>
       <div className='container mx-auto my-10 px-4'>

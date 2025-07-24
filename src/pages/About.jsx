@@ -1,6 +1,6 @@
 import React from 'react'
 import Footer from '../components/Footer'
-import bg from "/assets/bg.png"
+import Side_Image from "/assets/Side_Image.png"
 import Frame from '/assets/Frame 874.png'
 import Lady from '/assets/Lady.png'
 import whiteman from '/assets/whiteman.png'
@@ -14,18 +14,17 @@ import { Twitter } from 'lucide-react'
 import { Instagram } from 'lucide-react'
 import { Linkedin } from 'lucide-react'
 import { Car } from 'lucide-react'
-import { HeadphoneOff } from 'lucide-react'
+
 import { Headphones } from 'lucide-react'
-import { Shield } from 'lucide-react'
-import { ShieldAlertIcon } from 'lucide-react'
+
 import { ShieldCheck } from 'lucide-react'
 
 function About() {
   return (
     <div className=''>
     
-<div className='flex flex-col md:flex-row p-6 mt-20'>
-  <div className='w-full md:w-[50%] px-4 max-w-md mt-10'>
+<div className='flex flex-col md:flex-row mt-20 justify-between'>
+  <div className='w-full md:w-[50%] px-12 mt-10 '>
     <h2 className='font-semibold text-2xl md:text-4xl mb-4 text-center'>Our Story</h2>
     <p className='text-sm md:text-base leading-relaxed mb-3'>
       Your one-stop online shop for gaming gear and computer accessories!
@@ -36,8 +35,8 @@ function About() {
     </p>
   </div>
 
-  <div className="md:w-auto mt-6 md:mt-0 flex justify-center">
-    <img src={bg} alt="about image" />
+  <div className="md:w-auto mt-6 md:mt-0  bg-gray-300">
+    <img src={Side_Image} alt="about image" />
   </div>
 </div>
 
